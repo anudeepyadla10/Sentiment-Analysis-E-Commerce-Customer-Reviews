@@ -7,5 +7,7 @@ Flipkart, being one of the largest e-commerce platforms, collects a huge amount 
 Solution:
 
 I developed a Sentiment Analysis model using Natural Language Processing (NLP) and Machine Learning (ML) to classify Flipkart customer reviews into positive, negative, and neutral sentiments.
+
 Using Logistic Regression and Naïve Bayes for classification, the model achieved 80% accuracy. 
+
 This solution provides valuable insights from customer feedback, helping businesses and sellers on Flipkart make data-driven decisions to enhance their products and services.
