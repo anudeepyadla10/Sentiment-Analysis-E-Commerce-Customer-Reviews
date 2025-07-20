@@ -1,10 +1,12 @@
 🧩 Overview
+
 This project focuses on analyzing customer reviews from an e-commerce platform to understand sentiment trends and product feedback. E-commerce companies often receive thousands of reviews daily, making manual analysis time-consuming and inefficient. I selected Flipkart as the sample e-commerce platform because the dataset contained rich, real-world customer reviews ideal for sentiment analysis.
 
 Using natural language processing (NLP) and machine learning (ML), I developed a sentiment analysis model to classify customer reviews as positive, negative, or neutral. The goal is to automate sentiment interpretation and help businesses make better product or service decisions based on customer feedback.
 
 
 🎯 Objective
+
 To build an end-to-end sentiment analysis pipeline that:
 
 Cleans and processes customer review data.
@@ -15,12 +17,14 @@ Helps visualize overall customer satisfaction trends.
 
 
 🗃️ Dataset
+
 Source: Public dataset containing Flipkart product reviews.
 
 Format: CSV file with columns like review, rating, and summary.
 
 
 ⚙️ Technologies Used
+
 Language: Python
 
 Libraries:
@@ -37,6 +41,7 @@ Jupyter Notebook – Development environment
 
 
 🧪 What I Did
+
 Data Cleaning: Removed punctuation, stopwords, and special characters from the review text.
 
 Exploratory Data Analysis:
@@ -71,6 +76,7 @@ Displayed examples of classified reviews.
 
 
 ✅ Outcome
+
 The final model can accurately classify customer reviews into positive, negative, or neutral categories. This approach allows businesses to:
 
 Monitor customer satisfaction automatically.
